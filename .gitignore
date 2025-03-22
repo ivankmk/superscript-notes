@@ -1,0 +1,45 @@
+# Dependencies
+node_modules/
+/vendor/
+/.pnp
+.pnp.js
+
+# Build outputs
+/build/
+/dist/
+/out/
+
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDE and editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Debug logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+debug.log
+
+# Testing
+/coverage/
+
+# Cache directories
+.cache/
+.next/
+.nuxt/
+.temp/
+
+# Optional: Uncomment if using these tools
+# .sass-cache/
+# .eslintcache
+# .stylelintcache 
